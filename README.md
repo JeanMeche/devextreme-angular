@@ -3,7 +3,7 @@
 
 # DevExtreme Angular UI Components #
 
-This project allows you to use [DevExtreme components](http://js.devexpress.com/Demos/WidgetsGallery/) in [Angular](https://angular.io/) applications.
+This project allows you to use [DevExtreme components](http://js.devexpress.com/Demos/WidgetsGallery/) in [Angular](https://angular.dev/) applications.
 
 * [Documentation](https://js.devexpress.com/Documentation/Guide/Angular_Components/DevExtreme_Angular_Components/)
 * [Technical Demos](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DataGrid/Overview/Angular/Light/)
@@ -18,6 +18,6 @@ Familiarize yourself with the [DevExtreme License](https://js.devexpress.com/Lic
 
 ## Support & Feedback ##
 
-If you have questions regarding Angular functionality, consult [Angular docs](https://angular.io/docs).
+If you have questions regarding Angular functionality, consult [Angular docs](https://angular.dev).
 
 If you want to report a bug, request a feature, or ask a question, submit an [issue](https://github.com/DevExpress/devextreme-angular/issues) to this repo. Alternatively, you can contact us at the [DevExpress Support Center](https://www.devexpress.com/Support/Center) if you own an active DevExtreme license.
